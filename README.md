@@ -1,10 +1,10 @@
-[![banner](./images/BannerImg.svg)](https://caspertheghost.me)
+[![banner](./images/BannerImg.svg)](https://moosemoosetwutwu.github.io/website)
 
 ## Hello! 👋
 
 - 💻 I'm a game, website and discord bot developer
 - 🌱 Currently learning Discord JS, TypeScript and C#
-- 💪 Currently working on [ghostybot](https://github.com/Dev-CasperTheGhost/ghostybot)
+- 💪 Currently working on [Hello Bot](https://github.com/Moosemoosetwutwu/HelloBot)
 - 📦 My biggest project so far: [HelloBot](https://github.com/Moosemoosetwutwu/HelloBot)
 
 ## Skills and tools
@@ -17,14 +17,5 @@
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
 
-
-<details>
-  <summary>Stats</summary>
-  
-  
   ![stats](https://github-readme-stats-eight-gamma.vercel.app/api?username=Moosemoosetwutwu&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide_rank=true)
-  
-  ![langs](https://github-readme-stats-eight-gamma.vercel.app/api/top-langs?username=Dev-CasperTheGhost&theme=dark&include_all_commits=true&count_private=true&layout=compact&hide=lua)
-  
 
- </details>
