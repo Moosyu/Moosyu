@@ -1,4 +1,4 @@
-[![banner](./images/BannerImg.svg)](https://moosemoosetwutwu.github.io/website)
+[![banner](https://github.com/Moosemoosetwutwu/Moosemoosetwutwu/blob/main/images/BannerImg.svg)](https://moosemoosetwutwu.github.io/website)
 
 ## Hello! 👋
 
