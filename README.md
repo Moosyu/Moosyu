@@ -2,14 +2,12 @@
 
 ## Hello! 👋
 
-- 💻 I'm a frontend focused web developer
-- ⚡ I love programming, learning and math
-- 🌱 Currently learning NextJS, TypeScript and design(in school)
-- 🌐 View my portfolio: [caspertheghost.me](https://caspertheghost.me/)
+- 💻 I'm a game, website and discord bot developer
+- 🌱 Currently learning Discord JS, TypeScript and C#
 - 💪 Currently working on [ghostybot](https://github.com/Dev-CasperTheGhost/ghostybot)
 - 📦 My biggest project so far: [SnailyCADv2](https://github.com/Dev-CasperTheGhost/snaily-cadv2)
 
-## skills and tools
+## Skills and tools
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
