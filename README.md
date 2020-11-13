@@ -1,6 +1,6 @@
 [![banner](https://github.com/Moosemoosetwutwu/Moosemoosetwutwu/blob/main/images/BannerImg.svg)](https://moosemoosetwutwu.github.io/website)
 
-## Hello! 👋
+## Hello! (https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
 - 💻 I'm a game, website and discord bot developer
 - 🌱 Currently learning Discord JS, TypeScript and C#
