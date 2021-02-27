@@ -15,11 +15,3 @@
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
   ![stats](https://github-readme-stats-eight-gamma.vercel.app/api?username=Moosemoosetwutwu&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide_rank=true)
-
-
-```text
-🔥 Editors: 
-VS Code                  10 hrs 21 mins      ██████████████░░░░░░░░░░░   55.65% 
-Visual Studio            5 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   30.05% 
-Unity                    2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.30% 
-```
