@@ -1,7 +1,7 @@
 ## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 💻 I'm a game, website and Java Script developer!
-- 🌱 Currently learning Discord JS, TypeScript and C#
+- 💻 I'm a game, website and Node.js developer
+- 🌱 Currently learning Java, Haxe and Godot Script
 - 💪 Currently working on [A godot project](https://github.com/Moosyu/Godot-Creature-Collect-Game)
 
 ## Skills and tools ✏️
