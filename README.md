@@ -2,7 +2,7 @@
 
 - 💻 I'm a game, website and Node.js developer
 - 🌱 Currently learning Java, Haxe and Godot Script
-- 💪 Currently working on [A godot project](https://github.com/Moosyu/Godot-Creature-Collect-Game)
+- 💪 Currently working on [my website](http://moosyu.github.io/)
 
 ## Skills and tools ✏️
 
