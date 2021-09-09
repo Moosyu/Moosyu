@@ -12,3 +12,4 @@
 [![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![Java](https://img.shields.io/badge/Java-ef7310?style=for-the-badge&logo=java&logoColor=white)](https://nodejs.org/en/)
