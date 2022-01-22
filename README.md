@@ -2,7 +2,7 @@
 
 - 💻 I'm a game, website and Node.js developer
 - 🌱 Currently learning C# and GDScript
-- 💪 Currently working on learning C#
+- 💪 Currently in a fever dream 
 
 ## Skills and tools ✏️
 
