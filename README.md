@@ -1,7 +1,7 @@
 ## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 💻 I'm a game, website and Node.js developer
-- 🌱 Currently learning C# and GDScript
+- 🌱 Currently learning Rust (https://raw.githubusercontent.com/Moosyu/Moosyu/main/despair.png)
 - 💪 Currently in a fever dream 
 
 ## Skills and tools ✏️
