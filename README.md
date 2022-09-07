@@ -1,8 +1,8 @@
 ## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 💻 I'm a game, website and Node.js developer
-- 🌱 [Currently learning Rust] (https://raw.githubusercontent.com/Moosyu/Moosyu/main/despair.png)
-- 💪 Currently in a fever dream 
+- 💻 [I'm deranged]
+- 🌱 [Currently learning Rust]  <img src="https://raw.githubusercontent.com/Moosyu/Moosyu/main/despair.png" width="128px">
+- 💪 [In a fever dream] 
 
 ## Skills and tools ✏️
 
