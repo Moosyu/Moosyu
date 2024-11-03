@@ -5,4 +5,6 @@
 - 💪 [In a fever dream] 
 - 🐈 [Big garfield kart fan]
 
+Idk which license is the good one but just take anything you want I don't care. 
+
 <img align="center" src="https://github-readme-stats-one-liard-37.vercel.app/api/top-langs/?username=Moosyu&show_icons=true&theme=dracula"/>
